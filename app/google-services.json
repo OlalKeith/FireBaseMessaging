@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "614637389133-hk82ukanu5sjd6stjspa331ovaookvtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.olal.firebasemessaging",
+            "certificate_hash": "16d56a55458bfa24fae648e871021ee6c159f3b6"
+          }
+        },
+        {
           "client_id": "614637389133-9lt9bq35g62t90c2mjf9p3lst1d1c4fa.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614637389133-9lt9bq35g62t90c2mjf9p3lst1d1c4fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
